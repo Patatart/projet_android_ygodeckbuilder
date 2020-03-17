@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">YGO Deck Builder</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string-array name="types_array">
+        <item>Type</item>
+        <item>All</item>
+        <item>Spell</item>
+        <item>Trap</item>
+        <item>Effect Monster</item>
+        <item>Normal Monster</item>
+        <item>Toon Monster</item>
+        <item>Ritual Monster</item>
+        <item>Ritual Effect Monster</item>
+        <item>Fusion Monster</item>
+    </string-array>
+</resources>
